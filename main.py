@@ -6,7 +6,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 import yt_dlp
 
 # Your Telegram API Token has been successfully injected here
-API_TOKEN = "8686466337:8686466337:AAE3ji4uLLeSajVawKvOfgfo0bp9wIMV_1g"
+API_TOKEN = "8686466337:AAEOeA9w1naJKGrrUIZEHKODlNl_FdpciRY"
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
